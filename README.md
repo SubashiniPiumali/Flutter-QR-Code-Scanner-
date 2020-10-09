@@ -1,4 +1,5 @@
-# qrcodescanner_app
+# QR code scanner
+  you can download qrscan 0.2.17 ->>>>> https://pub.dev/packages/qrscan
 
 A new Flutter application.
 
